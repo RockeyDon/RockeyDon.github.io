@@ -1,0 +1,31 @@
+- title: 仓库收藏
+
+- name: Linux仓库
+  link: https://command-not-found.com/
+  description: 运行这条命令需要安装什么软件
+  avatar: https://command-not-found.com/favicon.ico
+  
+- name: Maven仓库
+  link: https://mvnrepository.com/
+  description: 搜一下Java依赖怎么写
+  avatar: https://mvnrepository.com/assets/images/7080b8b0f6f48e6fbaffd5f9d85fcc7f-favicon.ico
+
+- title: 在线工具
+
+- name: Nginx测试
+  link: https://nginx.viraptor.info/
+  description: 测一下我的Nginx配置写对了没
+  # avatar: https://cdn.statically.io/gh/XPoet/image-hosting@master/common-use/avatar.jpg
+  
+- name: DeepL翻译
+  link: https://www.deepl.com/zh/translator
+  description: 全世界最准确的翻译
+  avatar: https://static.deepl.com/img/favicon/favicon_32.png
+
+- title: 实用软件
+
+- name: Linux阿里云盘
+  link: https://github.com/tickstep/aliyunpan
+  description: 在只有命令行的远程服务器运行阿里云盘
+  # avatar: https://s3.ax1x.com/2020/11/17/DVvkB4.jpg
+
