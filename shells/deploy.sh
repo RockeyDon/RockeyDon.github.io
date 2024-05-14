@@ -11,5 +11,4 @@ cp -r ./source/ ../source/
 cd ../
 git add .
 git commit --amend -m "Add Hexo static files to doc folder"
-git push --force origin master
-    
+git push --force origin main
