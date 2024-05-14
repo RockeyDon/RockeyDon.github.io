@@ -4,7 +4,7 @@ hexo clean
 # 生成文件
 hexo generate
 # 移动文件
-cp -r ./public/* ../doc
+cp -r ./public/* ../docs
 cp ./_config.yml ../_config.yml
 cp -r ./source/ ../source/
 # 手动提交
